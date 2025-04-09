@@ -1,4 +1,4 @@
-# 📊 Uncovering Stock Market Trends: A Statistical Exploration and Predictive Analysis
+# Uncovering Stock Market Trends: A Statistical Exploration and Predictive Analysis
 
 **Authors:** Xin Jiang, Ziyue Yin, Yitong Zhou, Yunheng Wang \
 **Course:** Duke COMPSCI 216: Everything Data
