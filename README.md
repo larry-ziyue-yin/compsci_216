@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project investigates short-term risk and predictive modeling for the Dow Jones Industrial Average (DJIA) using advanced Bayesian statistical methods. We focus on estimating and forecasting key financial risk metrics—**Value-at-Risk (VaR)** and **Expected Shortfall (ES)**—while exploring the influence of statistical and sentiment indicators.
+This project investigates short-term risk and predictive modeling for the Dow Jones Industrial Average (DJIA) using advanced Bayesian statistical methods. We focus on estimating and forecasting key financial risk metrics, **Value-at-Risk (VaR)** and **Expected Shortfall (ES)**, while exploring the influence of statistical and sentiment indicators.
 
 ## Research Questions
 
